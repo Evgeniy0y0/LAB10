@@ -13,7 +13,7 @@ def writefile(filename, words):
   except:
     print("Failed to write to file")
 
-text = "How`s your day going?"
+text = "Sevati \nHow`s your day going?"
 try:
   createfile("Text.txt")
   print("File Text.txt successfully created.")
