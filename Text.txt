@@ -1,2 +1,6 @@
-Sevati
-How`s your day going?
+Sevati 
+How's your day going?
+
+Lobanov
+My day is going well. How's yours?
+How do you reverse a string in Python?
